@@ -1,6 +1,6 @@
 # Zent Cash Paper Wallet Generator
 
-https://paperwallet.zent.cash/
+https://zentcashfoundation.github.io/zentcash-paper-wallet/
 
 ## LICENSE
 
